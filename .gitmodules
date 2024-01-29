@@ -1,3 +1,6 @@
 [submodule "server"]
 	path = server
 	url = https://github.com/ayushjidhanta/himachal-harvest-backend
+[submodule "client"]
+	path = client
+	url = git@github.com:ayushjidhanta/himachal-harvest-frontend.git
